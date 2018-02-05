@@ -1,0 +1,2 @@
+# Squid
+Splatoon2
